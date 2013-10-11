@@ -1,4 +1,6 @@
-
+/*
+ * Author: anushree Gupte
+ * Desc: Crackin the coding questions*/
 public class StringsNArraysMain {
 
 	public static void main (String[] args){
